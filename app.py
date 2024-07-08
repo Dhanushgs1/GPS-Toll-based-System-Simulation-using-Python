@@ -1,5 +1,5 @@
 # defining locations for start and end points
-locations_coords = {"Meerut": (28.9845, 77.7064), "Mathura": (27.4924, 77.6737), "Gurugram": (28.4595, 77.0266), "Agra": (27.1767, 78.0081)}
+locations_coords = {"CHENNAI": (28.9845, 77.7064), "BANGALORE": (27.4924, 77.6737), "SALEM": (28.4595, 77.0266), "KOVAI": (27.1767, 78.0081)}
 
 # defining toll zones
 from shapely.geometry import Polygon
